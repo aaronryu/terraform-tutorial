@@ -1,0 +1,4 @@
+.envrc
+snippets.txt
+.terraform
+**/secret.json
